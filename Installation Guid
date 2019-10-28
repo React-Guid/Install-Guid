@@ -1,0 +1,7 @@
+To Install react-app generator:
+"npm instll -g create-react-app"
+
+To Create New Prropject:
+"create-react-app  here will be the project name"
+
+ 
